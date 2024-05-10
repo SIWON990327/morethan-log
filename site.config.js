@@ -12,21 +12,21 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "github.com/SIWON990327/morethan-log",
+      name: `IAI-log`,
+      href: "",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "IAS-log",
-    description: "welcome to NCool's IAS-log!",
+    title: "IAI-log",
+    description: "welcome to NCool's IAI-log!",
     theme: "auto",
   },
 
   // CONFIG configration (required)
   link: "https://morethan-log.vercel.app",
   since: 2022, // If leave this empty, current year will be used.
-  lang: "ko-Kr", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
+  lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
   // notion configuration (required)
