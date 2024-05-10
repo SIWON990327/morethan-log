@@ -13,13 +13,14 @@ const CONFIG = {
   projects: [
     {
       name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      href: "github.com/SIWON990327/morethan-log",
     },
   ],
   // blog setting (required)
   blog: {
     title: "IAS-log",
     description: "welcome to NCool's IAS-log!",
+    theme: "auto",
   },
 
   // CONFIG configration (required)
